@@ -1,0 +1,19 @@
+{
+  "workflows": {
+    "amah8FiSQgmwIHQM": {
+      "lastSyncedHash": "439a2b1cd7447dbe0dc5a8f150918f1c72bb579999783003489efd279dbc9804",
+      "lastSyncedAt": "2026-11-22T23:23:33.251Z",
+      "filename": "Xataka RSS to Discord Notifier.workflow.ts"
+    },
+    "nbYGpYwVPlccdTeZ": {
+      "lastSyncedHash": "54a675aa56bf470c52fbc46df631824ea5a929c7ac0768451f2919e62321f577",
+      "lastSyncedAt": "2026-11-22T23:23:24.195Z",
+      "filename": "MotionTech Gold Bot - Bybit Demo & Lambda (Isidro).workflow.ts"
+    },
+    "xKwE0S5s9HCkVCNc": {
+      "lastSyncedHash": "a3c1cfcee37f7e3f99f93ca32fef259935111bde1d87b9e7d84b21273bdedebf",
+      "lastSyncedAt": "2026-11-11T03:04:40.729Z",
+      "filename": "Ejemplo 2 - Calculadora e Impuestos.workflow.ts"
+    }
+  }
+}

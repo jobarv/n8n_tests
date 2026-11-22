@@ -1,0 +1,43 @@
+# ==========================================
+# n8n as code (N8NAC) & MCP Local State
+# ==========================================
+.n8nac/
+.n8nac-cache/
+*.n8nac.local.json
+
+# ==========================================
+# Secrets & Environment Variables
+# ==========================================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# ==========================================
+# Node.js / TypeScript (for workflow typings)
+# ==========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm
+.eslintcache
+*.tsbuildinfo
+
+# ==========================================
+# VS Code & Local Editor Settings
+# (Keep .vscode/extensions.json if shared)
+# ==========================================
+.vscode/*
+!.vscode/extensions.json
+.vscode/mcp.json
+
+# ==========================================
+# OS Generated Files
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini

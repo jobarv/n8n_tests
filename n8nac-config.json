@@ -1,0 +1,33 @@
+{
+  "version": 4,
+  "activeEnvironmentId": "n8n-environment-2",
+  "environmentTargets": [
+    {
+      "id": "n8n-environment",
+      "name": "n8n_environment",
+      "kind": "external-instance",
+      "url": "https://356963.appsneubox.com"
+    }
+  ],
+  "environments": [
+    {
+      "id": "n8n-environment-2",
+      "name": "n8n_environment",
+      "syncSlug": "n8n-environment",
+      "environmentTargetId": "n8n-environment",
+      "projectId": "personal",
+      "projectName": "Personal",
+      "workflowsPath": "workflows/n8n-environment",
+      "folderSync": true,
+      "nativeMcp": {
+        "enabled": true,
+        "url": "https://356963.appsneubox.com/mcp-server/http",
+        "mode": "assist",
+        "level": 3,
+        "allowRemoteExposure": false,
+        "allowExecutionData": false,
+        "requireSyncBack": true
+      }
+    }
+  ]
+}
